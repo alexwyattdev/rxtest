@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InterTicketTest</string>
+    <string name="tab_title">Tab %1d</string>
+    <string name="load_countries">Load countries</string>
+    <string name="general_error">An error occurred</string>
+    <string name="add_numbers">Example: (1, 5, 3, 0, -1, 2)</string>
+    <string name="process_input">Process input</string>
+    <string name="invalid_or_empty_text">Could not process input</string>
+</resources>
